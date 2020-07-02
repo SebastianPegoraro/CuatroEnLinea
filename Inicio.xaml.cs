@@ -44,7 +44,7 @@ namespace TPfinal
                     cuadrado.Height = tamanioCirculo;
                     ImageBrush imagen = new ImageBrush();
                     imagen.ImageSource =
-                    new BitmapImage(new Uri(@"C:\Users\adrian\source\repos\TPfinal\TPfinal\fondo.png"));
+                    new BitmapImage(new Uri(@"pack://siteoforigin:,,,/fondo.png"));
                     cuadrado.Fill = (columna % 2 == 0) ? imagen : imagen;
                     Canvas.SetBottom(cuadrado, tamanioCirculo * fila);
                     Canvas.SetRight(cuadrado, tamanioCirculo * columna);
@@ -105,10 +105,10 @@ namespace TPfinal
             circulo.Width = tamanioCirculo;
             ImageBrush imagen = new ImageBrush();
             imagen.ImageSource =
-            new BitmapImage(new Uri(@"C:\Users\adrian\source\repos\TPfinal\TPfinal\azul.png"));
+            new BitmapImage(new Uri(@"pack://siteoforigin:,,,/azul.png"));
             ImageBrush imagen2 = new ImageBrush();
             imagen2.ImageSource =
-            new BitmapImage(new Uri(@"C:\Users\adrian\source\repos\TPfinal\TPfinal\rojo.png"));
+            new BitmapImage(new Uri(@"pack://siteoforigin:,,,/rojo.png"));
             circulo.Fill = (estado == Estado.uno) ? imagen : imagen2;
             Canvas.SetTop(circulo, 0);
             Canvas.SetLeft(circulo, columna * 80);
@@ -150,7 +150,7 @@ namespace TPfinal
             else
             {              
                     estadoActual = (estadoActual == Estado.dos) ? Estado.uno : Estado.dos;
-                    estadoText.Text = String.Format("Turno de J{0}", estadoActual);       
+                    estadoText.Text = String.Format("Turno de Jugador {0}", estadoActual);       
             }
         }
 

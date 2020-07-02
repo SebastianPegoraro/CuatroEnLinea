@@ -4,11 +4,11 @@
 winexe
 C#
 .cs
-C:\Users\adrian\Documents\GitHub\CuatroEnLinea\obj\Debug\
+C:\Users\adrian\Documents\GitHub\CuatroEnLinea\obj\Release\
 TPfinal
 none
 false
-DEBUG;TRACE
+TRACE
 C:\Users\adrian\Documents\GitHub\CuatroEnLinea\App.xaml
 2-1057485077
 
@@ -16,5 +16,5 @@ C:\Users\adrian\Documents\GitHub\CuatroEnLinea\App.xaml
 131254293103
 Inicio.xaml;Principal.xaml;
 
-False
+True
 
