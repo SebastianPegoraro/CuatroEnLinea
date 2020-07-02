@@ -1,0 +1,17 @@
+C:\Users\adrian\source\repos\TPfinal\TPfinal\bin\Debug\TPfinal.exe.config
+C:\Users\adrian\source\repos\TPfinal\TPfinal\bin\Debug\TPfinal.exe
+C:\Users\adrian\source\repos\TPfinal\TPfinal\bin\Debug\TPfinal.pdb
+C:\Users\adrian\source\repos\TPfinal\TPfinal\obj\Debug\TPfinal.csprojAssemblyReference.cache
+C:\Users\adrian\source\repos\TPfinal\TPfinal\obj\Debug\App.g.cs
+C:\Users\adrian\source\repos\TPfinal\TPfinal\obj\Debug\TPfinal_MarkupCompile.cache
+C:\Users\adrian\source\repos\TPfinal\TPfinal\obj\Debug\TPfinal_MarkupCompile.lref
+C:\Users\adrian\source\repos\TPfinal\TPfinal\obj\Debug\TPfinal.g.resources
+C:\Users\adrian\source\repos\TPfinal\TPfinal\obj\Debug\TPfinal.Properties.Resources.resources
+C:\Users\adrian\source\repos\TPfinal\TPfinal\obj\Debug\TPfinal.csproj.GenerateResource.cache
+C:\Users\adrian\source\repos\TPfinal\TPfinal\obj\Debug\TPfinal.csproj.CoreCompileInputs.cache
+C:\Users\adrian\source\repos\TPfinal\TPfinal\obj\Debug\TPfinal.exe
+C:\Users\adrian\source\repos\TPfinal\TPfinal\obj\Debug\TPfinal.pdb
+C:\Users\adrian\source\repos\TPfinal\TPfinal\obj\Debug\Inicio.g.cs
+C:\Users\adrian\source\repos\TPfinal\TPfinal\obj\Debug\Principal.g.cs
+C:\Users\adrian\source\repos\TPfinal\TPfinal\obj\Debug\Inicio.baml
+C:\Users\adrian\source\repos\TPfinal\TPfinal\obj\Debug\Principal.baml

@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{6686FCA5-6E2E-4BA3-97DB-0DE3A672DC95}</ProjectGuid>
+    <ProjectGuid>{3278C649-DB47-4AA9-89B0-943EF84B34FF}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>PruebaWPF</RootNamespace>
-    <AssemblyName>PruebaWPF</AssemblyName>
-    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <RootNamespace>TPfinal</RootNamespace>
+    <AssemblyName>TPfinal</AssemblyName>
+    <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
     <WarningLevel>4</WarningLevel>
@@ -55,7 +55,12 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
-    <Page Include="MainWindow.xaml">
+    <Compile Include="Bitmap.cs" />
+    <Compile Include="Principal.xaml.cs">
+      <DependentUpon>Principal.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Tablero.cs" />
+    <Page Include="Inicio.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </Page>
@@ -63,11 +68,15 @@
       <DependentUpon>App.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="CuatroEnLinea.cs" />
-    <Compile Include="MainWindow.xaml.cs">
-      <DependentUpon>MainWindow.xaml</DependentUpon>
+    <Compile Include="Juego.cs" />
+    <Compile Include="Inicio.xaml.cs">
+      <DependentUpon>Inicio.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
+    <Page Include="Principal.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs">
