@@ -12,7 +12,7 @@
             <ColumnDefinition Width="218*"/>
         </Grid.ColumnDefinitions>
         <Button x:Name="btnAI" Content="vs CPU" HorizontalAlignment="Left" Margin="10,183,0,0" VerticalAlignment="Top" Width="120" Click="btnAI_Click" Height="71" Grid.Column="1"/>
-        <Button x:Name="btnLocal" Content="Button" HorizontalAlignment="Left" Margin="59,183,0,0" VerticalAlignment="Top" Width="120" Click="Button_Click" Height="71"/>
+        <Button x:Name="btnLocal" Content="vs Otro" HorizontalAlignment="Left" Margin="59,183,0,0" VerticalAlignment="Top" Width="120" Click="Button_Click" Height="71"/>
         <Label Content="Cuatro" HorizontalAlignment="Left" Margin="95,10,0,0" VerticalAlignment="Top" Height="75" Width="142" FontSize="36"/>
         <Label Content="en " HorizontalAlignment="Left" Margin="218,59,0,0" VerticalAlignment="Top" Height="92" Width="121" FontSize="36"/>
         <Label Content="Línea" HorizontalAlignment="Left" Margin="317,90,0,0" VerticalAlignment="Top" Grid.ColumnSpan="2" Height="112" Width="170" FontSize="36"/>

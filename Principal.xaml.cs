@@ -26,7 +26,7 @@ namespace TPfinal
         private void btnAI_Click(object sender, RoutedEventArgs e)
         {
             MainWindow juegoAI = new MainWindow();
-            juegoAI.setAI(1);
+            juegoAI.VsAI = true;
             this.Close();
             juegoAI.Show();
         }
@@ -35,9 +35,9 @@ namespace TPfinal
         private void Button_Click(object sender, RoutedEventArgs e)
         {         
             MainWindow juegoLocal = new MainWindow();
-            juegoLocal.setAI(0);
+            juegoLocal.VsAI = false;
             this.Close();
-            juegoLocal.Show();           
+            juegoLocal.Show();
         }
     }
 }

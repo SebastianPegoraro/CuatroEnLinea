@@ -32,3 +32,20 @@ C:\Users\adrian\Documents\GitHub\CuatroEnLinea\obj\Debug\TPfinal.csproj.Generate
 C:\Users\adrian\Documents\GitHub\CuatroEnLinea\obj\Debug\TPfinal.csproj.CoreCompileInputs.cache
 C:\Users\adrian\Documents\GitHub\CuatroEnLinea\obj\Debug\TPfinal.exe
 C:\Users\adrian\Documents\GitHub\CuatroEnLinea\obj\Debug\TPfinal.pdb
+C:\Users\Seba Pego\source\repos\PruebaWPF\bin\Debug\TPfinal.exe.config
+C:\Users\Seba Pego\source\repos\PruebaWPF\bin\Debug\TPfinal.exe
+C:\Users\Seba Pego\source\repos\PruebaWPF\bin\Debug\TPfinal.pdb
+C:\Users\Seba Pego\source\repos\PruebaWPF\obj\Debug\TPfinal.csprojAssemblyReference.cache
+C:\Users\Seba Pego\source\repos\PruebaWPF\obj\Debug\Inicio.g.cs
+C:\Users\Seba Pego\source\repos\PruebaWPF\obj\Debug\Principal.g.cs
+C:\Users\Seba Pego\source\repos\PruebaWPF\obj\Debug\App.g.cs
+C:\Users\Seba Pego\source\repos\PruebaWPF\obj\Debug\TPfinal_MarkupCompile.cache
+C:\Users\Seba Pego\source\repos\PruebaWPF\obj\Debug\TPfinal_MarkupCompile.lref
+C:\Users\Seba Pego\source\repos\PruebaWPF\obj\Debug\Inicio.baml
+C:\Users\Seba Pego\source\repos\PruebaWPF\obj\Debug\Principal.baml
+C:\Users\Seba Pego\source\repos\PruebaWPF\obj\Debug\TPfinal.g.resources
+C:\Users\Seba Pego\source\repos\PruebaWPF\obj\Debug\TPfinal.Properties.Resources.resources
+C:\Users\Seba Pego\source\repos\PruebaWPF\obj\Debug\TPfinal.csproj.GenerateResource.cache
+C:\Users\Seba Pego\source\repos\PruebaWPF\obj\Debug\TPfinal.csproj.CoreCompileInputs.cache
+C:\Users\Seba Pego\source\repos\PruebaWPF\obj\Debug\TPfinal.exe
+C:\Users\Seba Pego\source\repos\PruebaWPF\obj\Debug\TPfinal.pdb

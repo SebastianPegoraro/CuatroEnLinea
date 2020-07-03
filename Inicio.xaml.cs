@@ -19,6 +19,8 @@ namespace TPfinal
     
     public partial class MainWindow : Window
     {
+        Random ai = new Random();
+
         const int tamanioCirculo = 80;
         private Juego juego ;
         private DispatcherTimer animacion;
@@ -26,13 +28,16 @@ namespace TPfinal
         private Estado estadoActual;
         private Ellipse circuloActual;
         private int columnaActual;
-        private int aiActiva;
+        private bool vsAI;
+
+        public bool VsAI { get => vsAI; set => vsAI = value; }
+
         public MainWindow()
         {
             InitializeComponent();
             NuevoJuego();
         }
-        
+
         private void DibujarFondo()
         {
             for (int fila = 0; fila < juego.tablero.matriz.GetLength(0); fila++)
@@ -74,11 +79,6 @@ namespace TPfinal
             btn5.IsEnabled = false;
             btn6.IsEnabled = false;
             btn7.IsEnabled = false;
-        }
-
-        public void setAI(int valor)
-        {
-            aiActiva = valor;
         }
 
         private void InsertarFicha_Click(int columna)
@@ -129,6 +129,11 @@ namespace TPfinal
             {
                 animacion.Tick -= AnimacionCaidaCirculo;
                 bloquearInput = false;
+
+                if (vsAI && estadoActual == Estado.dos)
+                {
+                    InsertarFicha_Click(ai.Next(0, 7));
+                }
             }
 
         }
@@ -148,9 +153,9 @@ namespace TPfinal
                 DenegarTodosLosInsertButtons();
             }
             else
-            {              
-                    estadoActual = (estadoActual == Estado.dos) ? Estado.uno : Estado.dos;
-                    estadoText.Text = String.Format("Turno de Jugador {0}", estadoActual);       
+            {
+                estadoActual = (estadoActual == Estado.dos) ? Estado.uno : Estado.dos;
+                estadoText.Text = String.Format("Turno de Jugador {0}", estadoActual);       
             }
         }
 
