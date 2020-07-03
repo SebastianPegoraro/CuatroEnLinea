@@ -9,24 +9,24 @@
     <Window.Background>
         <ImageBrush ImageSource="fondoprinc.png"/>
     </Window.Background>
-    <Grid>
+    <Grid Margin="0,0,0,31">
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="349*"/>
             <ColumnDefinition Width="218*"/>
         </Grid.ColumnDefinitions>
-        <Button x:Name="btnAI" Content="vs CPU" HorizontalAlignment="Left" Margin="10,183,0,0" VerticalAlignment="Top" Width="120" Click="btnAI_Click" Height="71" Grid.Column="1">
+        <Button x:Name="btnAI" Content="vs CPU" HorizontalAlignment="Left" Margin="27,346,0,0" VerticalAlignment="Top" Width="120" Click="btnAI_Click" Height="71" Grid.Column="1">
             <Button.Background>
                 <ImageBrush ImageSource="botones.jpg"/>
             </Button.Background>
         </Button>
-        <Button x:Name="btnLocal" Content="vs Otro" HorizontalAlignment="Left" Margin="59,183,0,0" VerticalAlignment="Top" Width="120" Click="Button_Click" Height="71">
+        <Button x:Name="btnLocal" Content="vs Otro" HorizontalAlignment="Left" Margin="75,346,0,0" VerticalAlignment="Top" Width="120" Click="Button_Click" Height="71">
             <Button.Background>
                 <ImageBrush ImageSource="botones.jpg"/>
             </Button.Background>
         </Button>
-        <Label Content="Cuatro" HorizontalAlignment="Left" Margin="95,10,0,0" VerticalAlignment="Top" Height="75" Width="142" FontSize="36"/>
-        <Label Content="en " HorizontalAlignment="Left" Margin="218,59,0,0" VerticalAlignment="Top" Height="92" Width="121" FontSize="36"/>
-        <Label Content="Línea" HorizontalAlignment="Left" Margin="317,90,0,0" VerticalAlignment="Top" Grid.ColumnSpan="2" Height="112" Width="170" FontSize="36"/>
+        <Label Content="Cuatro" HorizontalAlignment="Left" Margin="30,41,0,0" VerticalAlignment="Top" Height="131" Width="256" FontSize="72" Cursor="None" FontFamily="Forte" FontStyle="Italic" FontWeight="Black"/>
+        <Label Content="en " HorizontalAlignment="Left" Margin="248,113,0,0" VerticalAlignment="Top" Height="92" Width="121" FontSize="72" Grid.ColumnSpan="2" FontFamily="Forte" FontWeight="Black"/>
+        <Label Content="Línea" HorizontalAlignment="Left" Margin="330,191,0,0" VerticalAlignment="Top" Height="136" Width="204" FontSize="72" Grid.ColumnSpan="2" FontFamily="Forte" FontWeight="Black"/>
 
     </Grid>
 </Window>
