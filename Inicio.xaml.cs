@@ -9,6 +9,7 @@ using System.Windows.Data;
 using System.Windows.Documents;
 using System.Windows.Input;
 using System.Windows.Media;
+using System.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
@@ -18,9 +19,8 @@ namespace TPfinal
 {
     
     public partial class MainWindow : Window
-    {
+    {      
         Random ai = new Random();
-
         const int tamanioCirculo = 80;
         private Juego juego ;
         private DispatcherTimer animacion;
@@ -29,13 +29,16 @@ namespace TPfinal
         private Ellipse circuloActual;
         private int columnaActual;
         private bool vsAI;
+        
 
         public bool VsAI { get => vsAI; set => vsAI = value; }
 
         public MainWindow()
-        {
+        {            
             InitializeComponent();
+            WindowStartupLocation = System.Windows.WindowStartupLocation.CenterScreen;
             NuevoJuego();
+            
         }
 
         private void DibujarFondo()
@@ -212,8 +215,8 @@ namespace TPfinal
 
         private void btnRestart_Click(object sender, RoutedEventArgs e)
         {
-            Principal nuevojuego = new Principal();
-            this.Close();
+            Principal nuevojuego = new Principal();         
+            this.Close();        
             nuevojuego.Show();
         }
 
