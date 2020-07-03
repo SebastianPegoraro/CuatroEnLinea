@@ -1,0 +1,11 @@
+C:\Users\giann\source\repos\TPFinalCuatroEnLinea\ServicioWCF\obj\Debug\ServicioWCF.csprojAssemblyReference.cache
+C:\Users\giann\source\repos\TPFinalCuatroEnLinea\ServicioWCF\obj\Debug\ServicioWCF.csproj.CoreCompileInputs.cache
+C:\Users\giann\source\repos\TPFinalCuatroEnLinea\ServicioWCF\bin\Debug\ServicioWCF.dll.config
+C:\Users\giann\source\repos\TPFinalCuatroEnLinea\ServicioWCF\bin\Debug\ServicioWCF.dll
+C:\Users\giann\source\repos\TPFinalCuatroEnLinea\ServicioWCF\bin\Debug\ServicioWCF.pdb
+C:\Users\giann\source\repos\TPFinalCuatroEnLinea\ServicioWCF\bin\Debug\ClienteWPF.exe
+C:\Users\giann\source\repos\TPFinalCuatroEnLinea\ServicioWCF\bin\Debug\ClienteWPF.pdb
+C:\Users\giann\source\repos\TPFinalCuatroEnLinea\ServicioWCF\bin\Debug\ClienteWPF.exe.config
+C:\Users\giann\source\repos\TPFinalCuatroEnLinea\ServicioWCF\obj\Debug\ServicioWCF.csproj.CopyComplete
+C:\Users\giann\source\repos\TPFinalCuatroEnLinea\ServicioWCF\obj\Debug\ServicioWCF.dll
+C:\Users\giann\source\repos\TPFinalCuatroEnLinea\ServicioWCF\obj\Debug\ServicioWCF.pdb

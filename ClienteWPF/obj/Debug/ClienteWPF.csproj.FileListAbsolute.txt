@@ -1,0 +1,32 @@
+C:\Users\giann\source\repos\TPFinalCuatroEnLinea\ClienteWPF\obj\Debug\ClienteWPF.csprojAssemblyReference.cache
+C:\Users\giann\source\repos\TPFinalCuatroEnLinea\ClienteWPF\obj\Debug\MainWindow.g.cs
+C:\Users\giann\source\repos\TPFinalCuatroEnLinea\ClienteWPF\obj\Debug\App.g.cs
+C:\Users\giann\source\repos\TPFinalCuatroEnLinea\ClienteWPF\obj\Debug\ClienteWPF_MarkupCompile.cache
+C:\Users\giann\source\repos\TPFinalCuatroEnLinea\ClienteWPF\obj\Debug\ClienteWPF_MarkupCompile.lref
+C:\Users\giann\source\repos\TPFinalCuatroEnLinea\ClienteWPF\bin\Debug\ClienteWPF.exe.config
+C:\Users\giann\source\repos\TPFinalCuatroEnLinea\ClienteWPF\bin\Debug\ClienteWPF.exe
+C:\Users\giann\source\repos\TPFinalCuatroEnLinea\ClienteWPF\bin\Debug\ClienteWPF.pdb
+C:\Users\giann\source\repos\TPFinalCuatroEnLinea\ClienteWPF\obj\Debug\MainWindow.baml
+C:\Users\giann\source\repos\TPFinalCuatroEnLinea\ClienteWPF\obj\Debug\ClienteWPF.g.resources
+C:\Users\giann\source\repos\TPFinalCuatroEnLinea\ClienteWPF\obj\Debug\ClienteWPF.Properties.Resources.resources
+C:\Users\giann\source\repos\TPFinalCuatroEnLinea\ClienteWPF\obj\Debug\ClienteWPF.csproj.GenerateResource.cache
+C:\Users\giann\source\repos\TPFinalCuatroEnLinea\ClienteWPF\obj\Debug\ClienteWPF.csproj.CoreCompileInputs.cache
+C:\Users\giann\source\repos\TPFinalCuatroEnLinea\ClienteWPF\obj\Debug\ClienteWPF.exe
+C:\Users\giann\source\repos\TPFinalCuatroEnLinea\ClienteWPF\obj\Debug\ClienteWPF.pdb
+C:\Users\Seba Pego\Downloads\TPFinalCuatroEnLinea\ClienteWPF\bin\Debug\ClienteWPF.exe.config
+C:\Users\Seba Pego\Downloads\TPFinalCuatroEnLinea\ClienteWPF\bin\Debug\ClienteWPF.exe
+C:\Users\Seba Pego\Downloads\TPFinalCuatroEnLinea\ClienteWPF\bin\Debug\ClienteWPF.pdb
+C:\Users\Seba Pego\Downloads\TPFinalCuatroEnLinea\ClienteWPF\obj\Debug\ClienteWPF.csprojAssemblyReference.cache
+C:\Users\Seba Pego\Downloads\TPFinalCuatroEnLinea\ClienteWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Seba Pego\Downloads\TPFinalCuatroEnLinea\ClienteWPF\obj\Debug\App.g.cs
+C:\Users\Seba Pego\Downloads\TPFinalCuatroEnLinea\ClienteWPF\obj\Debug\ClienteWPF_MarkupCompile.cache
+C:\Users\Seba Pego\Downloads\TPFinalCuatroEnLinea\ClienteWPF\obj\Debug\ClienteWPF_MarkupCompile.lref
+C:\Users\Seba Pego\Downloads\TPFinalCuatroEnLinea\ClienteWPF\obj\Debug\MainWindow.baml
+C:\Users\Seba Pego\Downloads\TPFinalCuatroEnLinea\ClienteWPF\obj\Debug\ClienteWPF.g.resources
+C:\Users\Seba Pego\Downloads\TPFinalCuatroEnLinea\ClienteWPF\obj\Debug\ClienteWPF.Properties.Resources.resources
+C:\Users\Seba Pego\Downloads\TPFinalCuatroEnLinea\ClienteWPF\obj\Debug\ClienteWPF.csproj.GenerateResource.cache
+C:\Users\Seba Pego\Downloads\TPFinalCuatroEnLinea\ClienteWPF\obj\Debug\ClienteWPF.csproj.CoreCompileInputs.cache
+C:\Users\Seba Pego\Downloads\TPFinalCuatroEnLinea\ClienteWPF\obj\Debug\ClienteWPF.exe
+C:\Users\Seba Pego\Downloads\TPFinalCuatroEnLinea\ClienteWPF\obj\Debug\ClienteWPF.pdb
+C:\Users\Seba Pego\Downloads\TPFinalCuatroEnLinea\ClienteWPF\obj\Debug\Principal.g.cs
+C:\Users\Seba Pego\Downloads\TPFinalCuatroEnLinea\ClienteWPF\obj\Debug\Principal.baml
