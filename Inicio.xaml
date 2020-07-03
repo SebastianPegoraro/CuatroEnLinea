@@ -11,8 +11,11 @@
         <Border Height="40" DockPanel.Dock="Top">
             <DockPanel>
                 <Border DockPanel.Dock="Top" Height="16">
+                    <Border.Background>
+                        <ImageBrush ImageSource="fondoprinc.png"/>
+                    </Border.Background>
                     <TextBlock Name="estadoText" HorizontalAlignment="Center">
-                        Inicia el Verde!
+                        Inicia el Azul!
                     </TextBlock>
                 </Border>
                 <Border>
@@ -27,20 +30,44 @@
                             <ColumnDefinition />
                         </Grid.ColumnDefinitions>
 
-                        <Button Name="btn1" Grid.Column="0" Click="Button_Click">↓</Button>
-                        <Button Name="btn2" Grid.Column="1" Click="btn2_Click">↓</Button>
-                        <Button Name="btn3" Grid.Column="2" Click="btn3_Click">↓</Button>
-                        <Button Name="btn4" Grid.Column="3" Click="btn4_Click">↓</Button>
-                        <Button Name="btn5" Grid.Column="4" Click="btn5_Click">↓</Button>
-                        <Button Name="btn6" Grid.Column="5" Click="btn6_Click">↓</Button>
-                        <Button Name="btn7" Grid.Column="6" Click="Button_Click_1">↓</Button>
+                        <Button Name="btn1" Grid.Column="0" Click="Button_Click">
+                            <Button.Background>
+                                <ImageBrush ImageSource="botones.jpg"/>
+                            </Button.Background> ↓</Button>
+                        <Button Name="btn2" Grid.Column="1" Click="btn2_Click">
+                            <Button.Background>
+                                <ImageBrush ImageSource="botones.jpg"/>
+                            </Button.Background> ↓</Button>
+                        <Button Name="btn3" Grid.Column="2" Click="btn3_Click">
+                            <Button.Background>
+                                <ImageBrush ImageSource="botones.jpg"/>
+                            </Button.Background> ↓</Button>
+                        <Button Name="btn4" Grid.Column="3" Click="btn4_Click">
+                            <Button.Background>
+                                <ImageBrush ImageSource="botones.jpg"/>
+                            </Button.Background> ↓</Button>
+                        <Button Name="btn5" Grid.Column="4" Click="btn5_Click">
+                            <Button.Background>
+                                <ImageBrush ImageSource="botones.jpg"/>
+                            </Button.Background> ↓</Button>
+                        <Button Name="btn6" Grid.Column="5" Click="btn6_Click">
+                            <Button.Background>
+                                <ImageBrush ImageSource="botones.jpg"/>
+                            </Button.Background> ↓</Button>
+                        <Button Name="btn7" Grid.Column="6" Click="Button_Click_1">
+                            <Button.Background>
+                                <ImageBrush ImageSource="botones.jpg"/>
+                            </Button.Background> ↓</Button>
                         
                     </Grid>
                 </Border>
             </DockPanel>
         </Border>
         <Border DockPanel.Dock="Bottom">
-            <Button Name="btnRestart" Click="btnRestart_Click" Height="29">Juego Nuevo!</Button>
+            <Button Name="btnRestart" Click="btnRestart_Click" Height="29">
+                <Button.Background>
+                    <ImageBrush ImageSource="botones.jpg"/>
+                </Button.Background> Juego Nuevo!</Button>
         </Border>
         <Border DockPanel.Dock="Bottom">
             <Canvas Name="tableroCanvas" Height="480"/>
